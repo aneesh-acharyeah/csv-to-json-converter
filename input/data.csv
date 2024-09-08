@@ -1,4 +1,9 @@
-id,name,email
-1,John Doe,john@example.com
-2,Jane Smith,jane@example.com
-3,Bob Johnson,bob@example.com
+id,name,alias,occupation,status,first_appearance
+1,Walter White,Heisenberg,Chemistry Teacher/Drug Kingpin,Deceased,"Pilot (2008)"
+2,Jesse Pinkman,Cap'n Cook,Drug Dealer,Alive,"Pilot (2008)"
+3,Skyler White,None,Accountant,Alive,"Pilot (2008)"
+4,Hank Schrader,None,DEA Agent,Deceased,"Pilot (2008)"
+5,Gustavo Fring,Gus,Fast Food Chain Owner/Drug Kingpin,Deceased,"Mandala (2009)"
+6,Saul Goodman,Jimmy McGill,Lawyer,Alive,"Better Call Saul (2009)"
+7,Mike Ehrmantraut,None,Private Investigator,Deceased,"ABQ (2009)"
+8,Lydia Rodarte-Quayle,None,Madrigal Executive,Deceased,"Madrigal (2012)"
