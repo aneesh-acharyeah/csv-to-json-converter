@@ -1,2 +1,14 @@
-# csv-to-json-converter
-CSV to JSON Converter is a simple PHP script that converts CSV files into JSON format. It reads data from a CSV file, processes it, and outputs the corresponding JSON file. This utility is perfect for anyone looking to easily transform CSV data into a JSON structure for use in web applications or data manipulation tasks.
+# CSV to JSON Converter in PHP
+
+This simple script converts a CSV file into a JSON file.
+
+## Usage
+
+1. Place your CSV file inside the `input/` directory.
+2. Run the `converter.php` script to convert the CSV to JSON.
+3. The resulting JSON file will be saved in the `output/` directory.
+
+## Steps to Run
+
+```bash
+php src/converter.php
