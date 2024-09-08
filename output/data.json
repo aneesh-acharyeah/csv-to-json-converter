@@ -1,17 +1,66 @@
 [
     {
         "id": "1",
-        "name": "John Doe",
-        "email": "john@example.com"
+        "name": "Walter White",
+        "alias": "Heisenberg",
+        "occupation": "Chemistry Teacher\/Drug Kingpin",
+        "status": "Deceased",
+        "first_appearance": "Pilot (2008)"
     },
     {
         "id": "2",
-        "name": "Jane Smith",
-        "email": "jane@example.com"
+        "name": "Jesse Pinkman",
+        "alias": "Cap'n Cook",
+        "occupation": "Drug Dealer",
+        "status": "Alive",
+        "first_appearance": "Pilot (2008)"
     },
     {
         "id": "3",
-        "name": "Bob Johnson",
-        "email": "bob@example.com"
+        "name": "Skyler White",
+        "alias": "None",
+        "occupation": "Accountant",
+        "status": "Alive",
+        "first_appearance": "Pilot (2008)"
+    },
+    {
+        "id": "4",
+        "name": "Hank Schrader",
+        "alias": "None",
+        "occupation": "DEA Agent",
+        "status": "Deceased",
+        "first_appearance": "Pilot (2008)"
+    },
+    {
+        "id": "5",
+        "name": "Gustavo Fring",
+        "alias": "Gus",
+        "occupation": "Fast Food Chain Owner\/Drug Kingpin",
+        "status": "Deceased",
+        "first_appearance": "Mandala (2009)"
+    },
+    {
+        "id": "6",
+        "name": "Saul Goodman",
+        "alias": "Jimmy McGill",
+        "occupation": "Lawyer",
+        "status": "Alive",
+        "first_appearance": "Better Call Saul (2009)"
+    },
+    {
+        "id": "7",
+        "name": "Mike Ehrmantraut",
+        "alias": "None",
+        "occupation": "Private Investigator",
+        "status": "Deceased",
+        "first_appearance": "ABQ (2009)"
+    },
+    {
+        "id": "8",
+        "name": "Lydia Rodarte-Quayle",
+        "alias": "None",
+        "occupation": "Madrigal Executive",
+        "status": "Deceased",
+        "first_appearance": "Madrigal (2012)"
     }
 ]
